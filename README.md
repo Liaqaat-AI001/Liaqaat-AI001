@@ -34,7 +34,7 @@
 ---
 
 🌐 **Connect with Me**
-- 📧 Email: liaqatcsit@gmail.com  
+- 📧 Email: liaqatsndp11@gmail.com  
 - 🌍 LinkedIn: [linkedin.com/in/liaqat-ali](https://www.linkedin.com/in/liaqat-ali-/)  
 
 
