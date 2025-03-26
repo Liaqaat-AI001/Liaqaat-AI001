@@ -8,7 +8,7 @@
 ---
 
 🎓 **Education & Research**  
-- 🎓 Bachelor’s in Computer Science & IT from NED University, Pakistan (CGPA: 3.42)  
+- 🎓 Bachelor’s in Computer Science & IT from NED University, Pakistan 
 - 📚 Research Student at **Tamkang University, Taiwan** (TEEP Internship)  
 - 🧠 Working on **Vision-Language Models** for defect detection in real-world industrial applications  
  
