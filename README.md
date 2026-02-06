@@ -8,10 +8,11 @@
 ---
 
 🎓 **Education & Research**  
+- 📚 Master's Student at **National Sun Yat-sen University** Taiwan.
 - 🎓 Bachelor’s in Computer Science & IT from NED University, Pakistan 
 - 📚 Research Student at **Tamkang University, Taiwan** (TEEP Internship)  
 - 🧠 Working on **Vision-Language Models** for defect detection in real-world industrial applications 
-- 📚 Master's Student at **National Sun Yat-sen University ** Taiwan.
+
  
 
 ---
