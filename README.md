@@ -10,7 +10,8 @@
 🎓 **Education & Research**  
 - 🎓 Bachelor’s in Computer Science & IT from NED University, Pakistan 
 - 📚 Research Student at **Tamkang University, Taiwan** (TEEP Internship)  
-- 🧠 Working on **Vision-Language Models** for defect detection in real-world industrial applications  
+- 🧠 Working on **Vision-Language Models** for defect detection in real-world industrial applications 
+- 📚 Master's Student at **National Sun Yat-sen University ** Taiwan.
  
 
 ---
@@ -40,5 +41,5 @@
 
 ---
 
-📌 *Currently looking for MS or MS-PhD position in AI/ML domains with scholarship in top research institutes worldwide.*
+📌 *Currently i am MS student at National Sun Yat-sen University, Taiwan In the Institute of Communication Engineering.*
 
